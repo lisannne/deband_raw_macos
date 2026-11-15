@@ -1,0 +1,6 @@
+rawpy>=0.21
+numpy
+scipy
+tifffile
+pillow
+exifread
